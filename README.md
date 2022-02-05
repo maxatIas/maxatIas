@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @maxatIas
+- 👀 I’m interested in discovering coding
+- 🌱 I’m currently learning nodejs
